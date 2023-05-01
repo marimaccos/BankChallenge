@@ -1,0 +1,15 @@
+C:\Arquivo-Mariana\Repositorios\workspace-C#\BankChallenge\bin\Debug\net6.0\BankChallenge.exe
+C:\Arquivo-Mariana\Repositorios\workspace-C#\BankChallenge\bin\Debug\net6.0\BankChallenge.deps.json
+C:\Arquivo-Mariana\Repositorios\workspace-C#\BankChallenge\bin\Debug\net6.0\BankChallenge.runtimeconfig.json
+C:\Arquivo-Mariana\Repositorios\workspace-C#\BankChallenge\bin\Debug\net6.0\BankChallenge.dll
+C:\Arquivo-Mariana\Repositorios\workspace-C#\BankChallenge\bin\Debug\net6.0\BankChallenge.pdb
+C:\Arquivo-Mariana\Repositorios\workspace-C#\BankChallenge\obj\Debug\net6.0\BankChallenge.csproj.AssemblyReference.cache
+C:\Arquivo-Mariana\Repositorios\workspace-C#\BankChallenge\obj\Debug\net6.0\BankChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Arquivo-Mariana\Repositorios\workspace-C#\BankChallenge\obj\Debug\net6.0\BankChallenge.AssemblyInfoInputs.cache
+C:\Arquivo-Mariana\Repositorios\workspace-C#\BankChallenge\obj\Debug\net6.0\BankChallenge.AssemblyInfo.cs
+C:\Arquivo-Mariana\Repositorios\workspace-C#\BankChallenge\obj\Debug\net6.0\BankChallenge.csproj.CoreCompileInputs.cache
+C:\Arquivo-Mariana\Repositorios\workspace-C#\BankChallenge\obj\Debug\net6.0\BankChallenge.dll
+C:\Arquivo-Mariana\Repositorios\workspace-C#\BankChallenge\obj\Debug\net6.0\refint\BankChallenge.dll
+C:\Arquivo-Mariana\Repositorios\workspace-C#\BankChallenge\obj\Debug\net6.0\BankChallenge.pdb
+C:\Arquivo-Mariana\Repositorios\workspace-C#\BankChallenge\obj\Debug\net6.0\BankChallenge.genruntimeconfig.cache
+C:\Arquivo-Mariana\Repositorios\workspace-C#\BankChallenge\obj\Debug\net6.0\ref\BankChallenge.dll
